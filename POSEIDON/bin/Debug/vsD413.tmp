@@ -1,0 +1,721 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+POSEIDON
+</name>
+</assembly>
+<members>
+<member name="T:POSEIDON.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources._95_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources._95_2001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Accounting_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Accounting_Icon_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.approvals_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Billing_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.cancelled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.cancelled_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Collection_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Collection_Icon_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Collection_Icon_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.collection2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.consumer_icons">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.cosumer_Accounts_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.downarr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.LEFT_ARROW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.Meter_Reading_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.note_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.pencil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.pendings_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.reports">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.RIGHT_ARROW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.sequence_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.trash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.uparr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POSEIDON.My.Resources.Resources.waterSystem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:POSEIDON.NewDataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDataset.billsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDataset.billsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDataset.billsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDatasetTableAdapters.billsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POSEIDON.PrintingDataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(POSEIDON.PrintingDataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(POSEIDON.PrintingDataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.UpdateAll(POSEIDON.PrintingDataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:POSEIDON.PrintingDatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DailyTransactionDataSetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.BillAdjustmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.MonthlyReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.MonthlySalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.AnnualSalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.AdjustedBillsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.brgylistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DisputeMemoAdapterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.EnvironmentalReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.PendingListDataSetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DailyCollectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.UncollectiblesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DailyTransactionDataSetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.BillAdjustmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.MonthlyReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.MonthlySalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.AnnualSalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.AdjustedBillsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.brgylistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DisputeMemoAdapterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.EnvironmentalReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.PendingListDataSetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DailyCollectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.UncollectiblesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DailyTransactionDataSetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.BillAdjustmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.MonthlyReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.MonthlySalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.AnnualSalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.AdjustedBillsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.brgylistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DisputeMemoAdapterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.EnvironmentalReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.PendingListDataSetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.DailyCollectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSet.UncollectiblesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.DailyTransactionDataSetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.BillAdjustmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.MonthlyReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.MonthlySalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.AnnualSalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.AdjustedBillsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.brgylistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.DisputeMemoAdapterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.EnvironmentalReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.PendingListDataSetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.DailyCollectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POSEIDON.ReportDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(POSEIDON.ReportDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(POSEIDON.ReportDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.UpdateAll(POSEIDON.ReportDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:POSEIDON.ReportDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.ORDatasetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.CollectionNoticeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.BillNoticeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.ORDataTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.DailyReportDataSetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.billAdjustmentRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.DailyCollectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.MonthlyReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.BillingStatementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.ORDatasetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.CollectionNoticeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.BillNoticeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.ORDataTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.DailyReportDataSetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.billAdjustmentRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.DailyCollectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.MonthlyReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.BillingStatementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.ORDatasetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.CollectionNoticeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.BillNoticeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.ORDataTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.DailyReportDataSetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.billAdjustmentRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.DailyCollectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.MonthlyReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdataset.BillingStatementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.ORDatasetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.CollectionNoticeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.BillNoticeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.ORDataTableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.DailyReportDataSetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.billAdjustmentRequestTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.DailyCollectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POSEIDON.reportingdataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(POSEIDON.reportingdataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(POSEIDON.reportingdataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.UpdateAll(POSEIDON.reportingdataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:POSEIDON.reportingdatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,275 @@
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\POSEIDON.exe.config
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\POSEIDON.exe
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\POSEIDON.pdb
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\POSEIDON.xml
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddressAdder.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddressList.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAdminPanel.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBilling.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBrowseCustomer.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCollection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCustomers.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmLog.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMeterReading.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewApplicant.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewCustomer.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPaymentCollection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPaymentSelection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSettings.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.Resources.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.vbproj.GenerateResource.Cache
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.exe
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.xml
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.pdb
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\poseidondll.dll
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\poseidondll.pdb
+E:\Water Systems Application\POSEIDON\POSEIDON\bin\Release\poseidondll.xml
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.vbprojResolveAssemblyReference.cache
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmORReport.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\RdlCompile.cache
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\RdlCompile.compiled
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMetReading.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.accessCheckList.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAccountLedger.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAccountsList.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddUType.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddZone.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillingPrint.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCashFlow.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCollectionNotice.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmConsumerList.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCustomerLedger.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisconnection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmHelp.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewAccount.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewConsumer.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNoticeOfCollection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmClassifications.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPendingList.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmRateAdder.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmRateValues.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmReportMenu.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSequencing.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCustomerAccount.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSystemUsers.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateForInstallationAccount.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmViewClassRate.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmViewDisconnection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.LoadWaterBilling.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.NewBarangay.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.NewReadingSelection.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.paymentMenu.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.userTypes.resources
+E:\Water Systems Application\POSEIDON\POSEIDON\obj\Release\POSEIDON.WaterBillPayment.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\POSEIDON.exe.config
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\POSEIDON.exe
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\POSEIDON.pdb
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\POSEIDON.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\AxShockwaveFlashObjects.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.Shared.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Google.Protobuf.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\K4os.Compression.LZ4.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\K4os.Hash.xxHash.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\MySql.Data.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Renci.SshNet.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Buffers.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Memory.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Numerics.Vectors.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\ShockwaveFlashObjects.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.SqlServer.Types.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\EnvDTE.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\stdole.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Microsoft.MSXML.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Google.Protobuf.pdb
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Google.Protobuf.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\K4os.Compression.LZ4.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\K4os.Hash.xxHash.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\MySql.Data.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\Renci.SshNet.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Buffers.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Memory.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Numerics.Vectors.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.accessCheckList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.billAdjustmentMenu.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.BILLSPRINT.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAccountLedger.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAccountNumberSeries.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAccountsList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddAccountSeries.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddressAdder.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddressList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMetReading.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddUType.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAddZone.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAdjustBillRequestForm.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAdjustedBillsList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAdjustedBillsReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAdminPanel.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAnnualSales.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAnnualSalesReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmAnnualTransactionReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmApplicantsStatus.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmApprovalRequests.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillAdjustment.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillAdjustmentRequestForm.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillConsumptionAdjustment.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillEditorvb.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBilling.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillPrint.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillPrintNew.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBillReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmBrowseCustomer.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCashFlow.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmChangeConsumer.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmChangePreviousBalance.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCollectiblesReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCollectionNotice.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmConsumerList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCrystalBillReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCrystalOR.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCustomerLedger.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCustomers.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDailyCollection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDailyCollectionReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDailySales.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDailySalesReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisconnection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisconnectionNoticeSetting.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisconnectionUpdate.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisputedBillsList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisputedBillsReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisputeForm.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmDisputeMemoPrint.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEditAccountSeries.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEditMeterDetails.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEditOR.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEnterAdminPassword.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEnterBillingNum.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEnviFeeReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmEnviFeeReportPrint.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmHelp.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmImportExcel.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmInspectionRequestFormPrint.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmInstallationReportDaily.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmLog.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMemoPrint.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMeterInspectionForm.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMeterReaderEditor.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMeterReaders.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMeterReading.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMonthlyApplicationsLog.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMonthlySalesReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMonthlySalesReportViewer.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmMonthlyTransactionReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewAccount.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewApplicant.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewBillPrinting.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewConsumer.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewCustomer.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewUser.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNewUserType.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNoteContent.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNotes.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmNoticeOfCollection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmORGroup.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmORList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmORRecords.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmORReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmORUpdater.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPaymentCollection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPaymentSelection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmClassifications.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPaymentTypeSelection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPendingList.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPendingMenu.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmPendingPrintView.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmRateAdder.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmRateValues.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmReconnectDailyReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmReconnection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmReportFilterSelector.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmReportMenu.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSequencing.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSettings.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmCustomerAccount.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSpecifyAmount.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSystemHistory.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmSystemUsers.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmTransferMeter.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmTransferMeterDailyReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmTransferOwner.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmTransferOwnerDailyReport.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateAccountDetails.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateDisconnection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateForInstallationAccount.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateMyPassword.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateNameTransfer.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateReconnection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateReference.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateTransMeter.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUpdateUName.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUserAccount.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmUserDetails.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmViewClassRate.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.frmViewDisconnection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.importBill.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.LoadWaterBilling.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.Resources.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.NewBarangay.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.NewReadingSelection.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.paymentMenu.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.userTypes.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.WaterBillOutstandingPayment.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.WaterBillPayment.resources
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\RdlCompile.cache
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\RdlCompile.compiled
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.exe
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.xml
+D:\PROGRAMMING\POSEIDON 2\POSEIDON\POSEIDON\obj\Release\POSEIDON.pdb
